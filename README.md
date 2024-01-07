@@ -1,5 +1,6 @@
 # Optimizers
 Optimize for function:
+
 ![image](https://github.com/ReginaDinh/Optimizers/assets/46398887/b962c6a3-bebd-4e75-bb13-7b02445a0afb)
 1. Gradient Descent
    ![image](https://github.com/ReginaDinh/Optimizers/assets/46398887/6631922d-c29e-488b-a734-b0d47e8e4389)
